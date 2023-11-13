@@ -17,7 +17,7 @@ import { AttentionsModule } from './atenciones/attentions.module';
       host: 'localhost',
       port: 5432,
       username: 'postgres',
-      password: '12345678',
+      password: '123456',
       database: 'hotel',
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
       synchronize: true,
